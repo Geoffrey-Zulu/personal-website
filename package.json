@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "Personal_Website",
-  "homepage": "https://geoffrey-zulu.github.io/Personal-Website/",
+  "homepage": "https://geoffrey-zulu.github.io/personal-website/",
   "version": "0.1.0",
   "scripts": {
     "build": "react-scripts build",
