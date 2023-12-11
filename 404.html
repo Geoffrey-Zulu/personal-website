@@ -3,6 +3,11 @@
   <head>
     <meta charset="utf-8" />
     <title>Single Page Apps for GitHub Pages</title>
+    <style>
+    .div{
+      color: #9e0000;
+    }
+    </style>
     <script type="text/javascript">
       // https://github.com/rafgraph/spa-github-pages
       // This script takes the current url and converts the path and query
@@ -20,7 +25,7 @@
       // https://username.github.io/repo-name/one/two?a=b&c=d#qwe becomes
       // https://username.github.io/repo-name/?/one/two&a=b~and~c=d#qwe
       // Otherwise, leave pathSegmentsToKeep as 0.
-      var pathSegmentsToKeep = 1;
+      var pathSegmentsToKeep = 0;
 
       var l = window.location;
       l.replace(
