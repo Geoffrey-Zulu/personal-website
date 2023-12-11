@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5763380392a8f4efe0940cfff5cc2566",
+    "revision": "7c0a8eac68752632aebb588352555f05",
     "url": "/personal-website/index.html"
   },
   {
-    "revision": "0fbf27220f1aad1e3a88",
+    "revision": "e14b3c6651e13555d598",
     "url": "/personal-website/static/css/main.1bade7fd.chunk.css"
   },
   {
-    "revision": "f9341f4d1798a5074fcc",
-    "url": "/personal-website/static/js/2.f2c5e278.chunk.js"
+    "revision": "1f194191e6a85b1d579e",
+    "url": "/personal-website/static/js/2.8d946238.chunk.js"
   },
   {
-    "revision": "0fbf27220f1aad1e3a88",
-    "url": "/personal-website/static/js/main.7e0d97b5.chunk.js"
+    "revision": "e14b3c6651e13555d598",
+    "url": "/personal-website/static/js/main.d1b6c10d.chunk.js"
   },
   {
     "revision": "ba76c3e4772e23068247",
@@ -22,6 +22,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
     "url": "/personal-website/static/media/Agustina.21f233e1.woff"
+  },
+  {
+    "revision": "48a892e5d76bf282c5bfc825797af9e6",
+    "url": "/personal-website/static/media/FreeCodeCamp_logo.48a892e5.png"
   },
   {
     "revision": "4457817ac2b9993c65e81aa05828fe9c",
@@ -54,6 +58,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "16559172ca1d4d552390b48f19e102ba",
     "url": "/personal-website/static/media/address_image.16559172.svg"
+  },
+  {
+    "revision": "6bb0fcd0d3f00077892b74ffebad764f",
+    "url": "/personal-website/static/media/amazone.6bb0fcd0.png"
   },
   {
     "revision": "eaf02c2d0158b6b4b8c2a0a0cf830a04",
@@ -188,6 +196,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/personal-website/static/media/googleAssistant.a6addc3f.svg"
   },
   {
+    "revision": "41def2fb6df3d6be79d208ae619bfddb",
+    "url": "/personal-website/static/media/hackthebox.41def2fb.webp"
+  },
+  {
+    "revision": "4f8be38624395ab06edb924ed734a746",
+    "url": "/personal-website/static/media/harvard_logo.4f8be386.png"
+  },
+  {
+    "revision": "10d593260cc21bb2c0992743c1aeab66",
+    "url": "/personal-website/static/media/huawei.10d59326.png"
+  },
+  {
     "revision": "d3fccbe1db76b96f4f320d9c0f7da30c",
     "url": "/personal-website/static/media/ibm_logo.d3fccbe1.png"
   },
@@ -198,10 +218,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "29152cf756a1facead5393c32e373371",
     "url": "/personal-website/static/media/intel_logo.29152cf7.jpg"
-  },
-  {
-    "revision": "60ed0bd3f8b99ac1d29e74575f804aaa",
-    "url": "/personal-website/static/media/iu_logo.60ed0bd3.png"
   },
   {
     "revision": "5b4a6449747ec61a6d9aa874f2a9ceba",
@@ -236,6 +252,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/personal-website/static/media/projects_image.b8ba9487.svg"
   },
   {
+    "revision": "36015867cbe18d1ad653cd7b5f7af78b",
+    "url": "/personal-website/static/media/pulsewave.36015867.png"
+  },
+  {
     "revision": "71408db71465afd742233e4a96f06526",
     "url": "/personal-website/static/media/pwa.71408db7.png"
   },
@@ -258,5 +278,13 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d63630893eb8cb64af65f395d393c481",
     "url": "/personal-website/static/media/ui_ux_design.d6363089.svg"
+  },
+  {
+    "revision": "741cbb9b352b94d1e5061048d4554744",
+    "url": "/personal-website/static/media/zcas_logo.741cbb9b.png"
+  },
+  {
+    "revision": "9388e6489ef7ec8f4451a08ad1b8cfcd",
+    "url": "/personal-website/static/media/zesco-logo.9388e648.png"
   }
 ]);

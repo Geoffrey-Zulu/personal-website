@@ -1,18 +1,20 @@
 {
   "files": {
     "main.css": "/personal-website/static/css/main.1bade7fd.chunk.css",
-    "main.js": "/personal-website/static/js/main.7e0d97b5.chunk.js",
-    "main.js.map": "/personal-website/static/js/main.7e0d97b5.chunk.js.map",
+    "main.js": "/personal-website/static/js/main.d1b6c10d.chunk.js",
+    "main.js.map": "/personal-website/static/js/main.d1b6c10d.chunk.js.map",
     "runtime-main.js": "/personal-website/static/js/runtime-main.a0e259e9.js",
     "runtime-main.js.map": "/personal-website/static/js/runtime-main.a0e259e9.js.map",
-    "static/js/2.f2c5e278.chunk.js": "/personal-website/static/js/2.f2c5e278.chunk.js",
-    "static/js/2.f2c5e278.chunk.js.map": "/personal-website/static/js/2.f2c5e278.chunk.js.map",
+    "static/js/2.8d946238.chunk.js": "/personal-website/static/js/2.8d946238.chunk.js",
+    "static/js/2.8d946238.chunk.js.map": "/personal-website/static/js/2.8d946238.chunk.js.map",
     "index.html": "/personal-website/index.html",
-    "precache-manifest.606cdc8b21d1caad5af6675db31f52ec.js": "/personal-website/precache-manifest.606cdc8b21d1caad5af6675db31f52ec.js",
+    "precache-manifest.3c7f4143f346132465018a24e1b10915.js": "/personal-website/precache-manifest.3c7f4143f346132465018a24e1b10915.js",
     "service-worker.js": "/personal-website/service-worker.js",
     "static/css/main.1bade7fd.chunk.css.map": "/personal-website/static/css/main.1bade7fd.chunk.css.map",
     "static/media/index.css": "/personal-website/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/FreeCodeCamp_logo.png": "/personal-website/static/media/FreeCodeCamp_logo.48a892e5.png",
     "static/media/address_image.svg": "/personal-website/static/media/address_image.16559172.svg",
+    "static/media/amazone.png": "/personal-website/static/media/amazone.6bb0fcd0.png",
     "static/media/animated_ashutosh.png": "/personal-website/static/media/animated_ashutosh.eaf02c2d.png",
     "static/media/animated_logo.svg": "/personal-website/static/media/animated_logo.dcd6dee2.svg",
     "static/media/blogs_image.svg": "/personal-website/static/media/blogs_image.058eca4c.svg",
@@ -32,10 +34,12 @@
     "static/media/github_logo.png": "/personal-website/static/media/github_logo.6eeb2e81.png",
     "static/media/googleAssistant.jpg": "/personal-website/static/media/googleAssistant.0c8a4c11.jpg",
     "static/media/googleAssistant.svg": "/personal-website/static/media/googleAssistant.a6addc3f.svg",
+    "static/media/hackthebox.webp": "/personal-website/static/media/hackthebox.41def2fb.webp",
+    "static/media/harvard_logo.png": "/personal-website/static/media/harvard_logo.4f8be386.png",
+    "static/media/huawei.png": "/personal-website/static/media/huawei.10d59326.png",
     "static/media/ibm_logo.png": "/personal-website/static/media/ibm_logo.d3fccbe1.png",
     "static/media/iiitk_logo.png": "/personal-website/static/media/iiitk_logo.571a8584.png",
     "static/media/intel_logo.jpg": "/personal-website/static/media/intel_logo.29152cf7.jpg",
-    "static/media/iu_logo.png": "/personal-website/static/media/iu_logo.60ed0bd3.png",
     "static/media/jsFramework.svg": "/personal-website/static/media/jsFramework.5b4a6449.svg",
     "static/media/legato_logo.png": "/personal-website/static/media/legato_logo.c597fbde.png",
     "static/media/manOnTable.svg": "/personal-website/static/media/manOnTable.83ac24fb.svg",
@@ -44,17 +48,20 @@
     "static/media/portfolio.gif": "/personal-website/static/media/portfolio.414dfbd9.gif",
     "static/media/programmer.svg": "/personal-website/static/media/programmer.5faf790b.svg",
     "static/media/projects_image.svg": "/personal-website/static/media/projects_image.b8ba9487.svg",
+    "static/media/pulsewave.png": "/personal-website/static/media/pulsewave.36015867.png",
     "static/media/pwa.png": "/personal-website/static/media/pwa.71408db7.png",
     "static/media/stanford_logo.png": "/personal-website/static/media/stanford_logo.2c497738.png",
     "static/media/talksCardBack.svg": "/personal-website/static/media/talksCardBack.6ac91b16.svg",
     "static/media/talksCardBackAlt.svg": "/personal-website/static/media/talksCardBackAlt.3fa54242.svg",
     "static/media/tiktok_logo.png": "/personal-website/static/media/tiktok_logo.0993e324.png",
-    "static/media/ui_ux_design.svg": "/personal-website/static/media/ui_ux_design.d6363089.svg"
+    "static/media/ui_ux_design.svg": "/personal-website/static/media/ui_ux_design.d6363089.svg",
+    "static/media/zcas_logo.png": "/personal-website/static/media/zcas_logo.741cbb9b.png",
+    "static/media/zesco-logo.png": "/personal-website/static/media/zesco-logo.9388e648.png"
   },
   "entrypoints": [
     "static/js/runtime-main.a0e259e9.js",
-    "static/js/2.f2c5e278.chunk.js",
+    "static/js/2.8d946238.chunk.js",
     "static/css/main.1bade7fd.chunk.css",
-    "static/js/main.7e0d97b5.chunk.js"
+    "static/js/main.d1b6c10d.chunk.js"
   ]
 }
