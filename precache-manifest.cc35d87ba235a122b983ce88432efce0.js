@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7c0a8eac68752632aebb588352555f05",
+    "revision": "1f4657bcddd46426e739ed9a78414596",
     "url": "/personal-website/index.html"
   },
   {
-    "revision": "e14b3c6651e13555d598",
+    "revision": "6986c512383723b3534a",
     "url": "/personal-website/static/css/main.1bade7fd.chunk.css"
   },
   {
-    "revision": "1f194191e6a85b1d579e",
-    "url": "/personal-website/static/js/2.8d946238.chunk.js"
+    "revision": "380dac25507c2c291539",
+    "url": "/personal-website/static/js/2.b1bd31dd.chunk.js"
   },
   {
-    "revision": "e14b3c6651e13555d598",
-    "url": "/personal-website/static/js/main.d1b6c10d.chunk.js"
+    "revision": "6986c512383723b3534a",
+    "url": "/personal-website/static/js/main.3d88cac7.chunk.js"
   },
   {
     "revision": "ba76c3e4772e23068247",
@@ -62,10 +62,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6bb0fcd0d3f00077892b74ffebad764f",
     "url": "/personal-website/static/media/amazone.6bb0fcd0.png"
-  },
-  {
-    "revision": "eaf02c2d0158b6b4b8c2a0a0cf830a04",
-    "url": "/personal-website/static/media/animated_ashutosh.eaf02c2d.png"
   },
   {
     "revision": "dcd6dee2bd7458a4a576dc131506fd83",
@@ -184,6 +180,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/personal-website/static/media/gcp_logo.0ee7e8c9.png"
   },
   {
+    "revision": "a5cdc71b6f2fc2988adcc2877723f2f2",
+    "url": "/personal-website/static/media/geoffrey.a5cdc71b.png"
+  },
+  {
     "revision": "6eeb2e810d0fd9f3ca2dcd72de228e68",
     "url": "/personal-website/static/media/github_logo.6eeb2e81.png"
   },
@@ -210,10 +210,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d3fccbe1db76b96f4f320d9c0f7da30c",
     "url": "/personal-website/static/media/ibm_logo.d3fccbe1.png"
-  },
-  {
-    "revision": "571a8584e69ecfbe326c8b8385fbbf54",
-    "url": "/personal-website/static/media/iiitk_logo.571a8584.png"
   },
   {
     "revision": "29152cf756a1facead5393c32e373371",

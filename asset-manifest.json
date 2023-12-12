@@ -1,21 +1,20 @@
 {
   "files": {
     "main.css": "/personal-website/static/css/main.1bade7fd.chunk.css",
-    "main.js": "/personal-website/static/js/main.d1b6c10d.chunk.js",
-    "main.js.map": "/personal-website/static/js/main.d1b6c10d.chunk.js.map",
+    "main.js": "/personal-website/static/js/main.3d88cac7.chunk.js",
+    "main.js.map": "/personal-website/static/js/main.3d88cac7.chunk.js.map",
     "runtime-main.js": "/personal-website/static/js/runtime-main.a0e259e9.js",
     "runtime-main.js.map": "/personal-website/static/js/runtime-main.a0e259e9.js.map",
-    "static/js/2.8d946238.chunk.js": "/personal-website/static/js/2.8d946238.chunk.js",
-    "static/js/2.8d946238.chunk.js.map": "/personal-website/static/js/2.8d946238.chunk.js.map",
+    "static/js/2.b1bd31dd.chunk.js": "/personal-website/static/js/2.b1bd31dd.chunk.js",
+    "static/js/2.b1bd31dd.chunk.js.map": "/personal-website/static/js/2.b1bd31dd.chunk.js.map",
     "index.html": "/personal-website/index.html",
-    "precache-manifest.3c7f4143f346132465018a24e1b10915.js": "/personal-website/precache-manifest.3c7f4143f346132465018a24e1b10915.js",
+    "precache-manifest.cc35d87ba235a122b983ce88432efce0.js": "/personal-website/precache-manifest.cc35d87ba235a122b983ce88432efce0.js",
     "service-worker.js": "/personal-website/service-worker.js",
     "static/css/main.1bade7fd.chunk.css.map": "/personal-website/static/css/main.1bade7fd.chunk.css.map",
     "static/media/index.css": "/personal-website/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/FreeCodeCamp_logo.png": "/personal-website/static/media/FreeCodeCamp_logo.48a892e5.png",
     "static/media/address_image.svg": "/personal-website/static/media/address_image.16559172.svg",
     "static/media/amazone.png": "/personal-website/static/media/amazone.6bb0fcd0.png",
-    "static/media/animated_ashutosh.png": "/personal-website/static/media/animated_ashutosh.eaf02c2d.png",
     "static/media/animated_logo.svg": "/personal-website/static/media/animated_logo.dcd6dee2.svg",
     "static/media/blogs_image.svg": "/personal-website/static/media/blogs_image.058eca4c.svg",
     "static/media/cloud_infrastructure.svg": "/personal-website/static/media/cloud_infrastructure.cacbc42b.svg",
@@ -31,6 +30,7 @@
     "static/media/feelingProud.svg": "/personal-website/static/media/feelingProud.2936ce95.svg",
     "static/media/fullstack.svg": "/personal-website/static/media/fullstack.fce60807.svg",
     "static/media/gcp_logo.png": "/personal-website/static/media/gcp_logo.0ee7e8c9.png",
+    "static/media/geoffrey.png": "/personal-website/static/media/geoffrey.a5cdc71b.png",
     "static/media/github_logo.png": "/personal-website/static/media/github_logo.6eeb2e81.png",
     "static/media/googleAssistant.jpg": "/personal-website/static/media/googleAssistant.0c8a4c11.jpg",
     "static/media/googleAssistant.svg": "/personal-website/static/media/googleAssistant.a6addc3f.svg",
@@ -38,7 +38,6 @@
     "static/media/harvard_logo.png": "/personal-website/static/media/harvard_logo.4f8be386.png",
     "static/media/huawei.png": "/personal-website/static/media/huawei.10d59326.png",
     "static/media/ibm_logo.png": "/personal-website/static/media/ibm_logo.d3fccbe1.png",
-    "static/media/iiitk_logo.png": "/personal-website/static/media/iiitk_logo.571a8584.png",
     "static/media/intel_logo.jpg": "/personal-website/static/media/intel_logo.29152cf7.jpg",
     "static/media/jsFramework.svg": "/personal-website/static/media/jsFramework.5b4a6449.svg",
     "static/media/legato_logo.png": "/personal-website/static/media/legato_logo.c597fbde.png",
@@ -60,8 +59,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.a0e259e9.js",
-    "static/js/2.8d946238.chunk.js",
+    "static/js/2.b1bd31dd.chunk.js",
     "static/css/main.1bade7fd.chunk.css",
-    "static/js/main.d1b6c10d.chunk.js"
+    "static/js/main.3d88cac7.chunk.js"
   ]
 }
